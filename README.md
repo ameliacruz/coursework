@@ -4,7 +4,9 @@ My name is Amelia Cruz and I am pursuing a B.S. in Computer Science at UTSA with
 
 ## About Me
 
-I am proud and honored to say I work with leaders in the gaming industry and some really awesome events I have worked are PAX South, PAX East, PAX West, and Dreamhack. Some industry leaders I have come to know are a part of AMD, PCGamer, NEEDforSEAT, HyperX, MAINGEAR, METATHREADS, amongst others.
+I am proud and honored to say I work with leaders in the gaming industry and some really awesome events I have worked are PAX South, PAX East, PAX West, and Dreamhack. 
+
+Some industry leaders I have come to know are a part of AMD, PCGamer, NEEDforSEAT, HyperX, MAINGEAR, METATHREADS, amongst others.
 
 ## 1st-Gen Scholars
 
