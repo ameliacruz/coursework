@@ -1,12 +1,12 @@
 # Welcome
 
-My name is Amelia Cruz and I am pursuing a B.S. in Computer Science at UTSA with a projected graduation of December 2020. Throughout this working collection of my coursework, you will find programs featured in Java, C, IA32, Python, Bash, and many others. 
+My name is Amelia Cruz and I am pursuing a B.S. in Computer Science at UTSA with a projected graduation of December 2020. Throughout this working collection of my coursework, you will find programs featured in Java, C, IA32, Python, Bash, and other languages. 
 
 ## About Me
 
 I am proud and honored to say I work with leaders in the gaming industry and some really awesome events I have worked are PAX South, PAX East, PAX West, and Dreamhack. 
 
-Some industry leaders I have come to know are a part of AMD, PCGamer, NEEDforSEAT, HyperX, MAINGEAR, METATHREADS, amongst others.
+Some industry leaders I have come to know are a part of AMD, PCGamer, NEEDforSEAT, HyperX, MAINGEAR, METATHREADS, Dreamhack, WeHype, CybertronPC, amongst many others.
 
 ## 1st-Gen Scholars
 
